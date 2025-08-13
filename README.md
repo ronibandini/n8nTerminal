@@ -17,5 +17,14 @@ Unihiker K10 https://www.dfrobot.com/product-2904.html?tracking=hOuIhw4fDaJRTdy4
 microSD card https://www.dfrobot.com/product-1938.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
 2 Gravity digital buttons https://www.dfrobot.com/product-1097.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
 
+# Demo
+
+https://www.youtube.com/shorts/4cWm9_oAfYg
+
+# More information
+
+https://bandini.medium.com/c%C3%B3mo-agregar-pantalla-y-botones-a-n8n-f7237ec4c5d5
+
 # Contact
+
 Roni Bandini https://www.linkedin.com/in/ronibandini/
