@@ -21,6 +21,12 @@ microSD card https://www.dfrobot.com/product-1938.html?tracking=hOuIhw4fDaJRTdy4
 
 [https://www.youtube.com/shorts/4cWm9_oAfYg](https://www.youtube.com/shorts/B6FYPusNIrw)
 
+# Links
+
+n8n template [https://primary-production-ee7b5.up.railway.app/projects/y9RhwDmuFPYaPSl2/workflows](https://n8n.io/workflows/7296-smart-shipping-prioritization-with-google-gemini-and-google-sheets/)
+3d parts https://cults3d.com/en/3d-model/gadget/n8n-terminal-esp32-based-screen-and-button
+Tutorial https://www.hackster.io/roni-bandini/n8n-terminal-device-e719a6
+
 # More information
 
 https://bandini.medium.com/c%C3%B3mo-agregar-pantalla-y-botones-a-n8n-f7237ec4c5d5
